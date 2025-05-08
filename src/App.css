@@ -1,0 +1,7 @@
+.square {
+    width: 50px;  /* Fixed width */
+    height: 50px; /* Fixed height */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
