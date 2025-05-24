@@ -1,4 +1,3 @@
-@@ -0,0 +1,42 @@
 # Tic-Tac-Toe with React
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev/)
